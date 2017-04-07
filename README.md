@@ -1,7 +1,9 @@
 # Beschreibung
 
 Das hier war das Testbeispiel meiner Ausarbeitung.
-Es hat ein paar 
+
+- Beinhaltet das Beispiel
+- eine Präsentation
 
 # Messages
 
