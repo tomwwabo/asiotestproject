@@ -79,10 +79,10 @@ void Client::handle_shalom(const std::string &msg)
     std::string answer;
     //first token shalom
     in >> answer;
-    //second token is either client_constelation_changed or ok
+    //second token is either client_constellation_changed or ok
     in >> answer;
     //std::cout << "\n ANSWER: " << answer << std::endl;
-    if ( answer == "client_constelation_changed")
+    if ( answer == "client_constellation_changed")
         do_ask_for_clients();
     else if ( answer == "ok")
         defer_shalom();

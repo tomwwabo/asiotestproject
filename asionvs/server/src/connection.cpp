@@ -89,7 +89,7 @@ void Connection::handle_join(const std::string &msg)
 
 void Connection::handle_shalom()
 {
-    do_write(clients_changed ? "shalom client_constelation_changed\n" :
+    do_write(clients_changed ? "shalom client_constellation_changed\n" :
                                "shalom ok\n");
     clients_changed = false;
 }
