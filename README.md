@@ -1,9 +1,9 @@
 # Beschreibung
 
-Das hier war das Testbeispiel meiner Ausarbeitung.
+Dieses Testbeispiel ist im Zuge einer Ausarbeitung entstanden.
 
 - Beinhaltet das Beispiel
-- eine Präsentation
+- eine Präsentation über einige Konzepte der ASIO
 
 # Messages
 
