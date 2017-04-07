@@ -8,7 +8,7 @@ Dieses Testbeispiel ist im Zuge einer Ausarbeitung entstanden.
 - "asyncnetprog.pptx"
 	- eine Präsentation über einige Konzepte der ASIO 
 
-# Messages
+# Funktionsweise
 
 ## messages des clients:
 	"join <NAME>"
